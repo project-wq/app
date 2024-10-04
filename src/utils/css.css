@@ -1,0 +1,54 @@
+.css-01vkjh {
+  width: 100%;
+  height: 40px;
+  background-color: #1f1f1f;
+}
+.css-01vkjh svg {
+    width: 20px;
+    height: 20px;
+    margin-left: 20px;
+    margin-top: 10px;
+  }
+  .css-01vkjh h4 {
+    font-size: 15px;
+    color: #000000;
+    margin: auto;
+    margin-top: -10px;
+  }
+  .preloader {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #fff;
+  z-index: 9999;
+  }
+  
+  .preloader-inner {
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  }
+  
+  .preloader-icon {
+  display: inline-block;
+  margin: 0 auto;
+  width: 170px;
+  height: 170px;
+  background-color: transparent;
+  border-radius: 50%;
+  }
+  
+  .preloader-icon img {
+  width: 100%;
+  height: 100%;
+  }
+  
+  .preloader-text {
+  font-size: 18px;
+  font-weight: bold;
+  margin-top: 10px;
+  }
